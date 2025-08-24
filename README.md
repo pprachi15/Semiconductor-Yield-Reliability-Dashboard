@@ -78,7 +78,7 @@ The challenge: **Provide fab managers a decision-making dashboard** to quickly s
 
 ## 📸 Dashboard Preview  
 
-<img width="1512" height="912" alt="image" src="https://github.com/user-attachments/assets/ca336c15-874e-4b76-9363-a4c2dae2a2b1" />
+<img width="1512" height="922" alt="image" src="https://github.com/user-attachments/assets/f42c698c-2fe6-474b-b4cb-432ab3d961d2" />
 
 
 ## 📌 Next Steps  
